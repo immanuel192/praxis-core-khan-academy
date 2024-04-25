@@ -16,8 +16,6 @@ Examples
 
 - (For paired passages) "Which of the following is used in the development of both passage 1 and passage 2?"
 
-
-
 ## Strategies
 
 When Organization questions ask about the entire passage, it can be helpful to **read the first and last sentence of each paragraph.** Paragraph breaks are natural indicators of a shift in the discussion, so this strategy can help you review how the discussion progresses from one claim or supporting point to the next.
@@ -38,8 +36,6 @@ Or does the author:
 
 This kind of “ordering” is what you will see in the choices. Note that the options for these questions won’t track every twist and turn of the passage. They will instead be very broad characterizations of the way the main point is developed. So don’t be concerned if the choice you like best seems to contain very little detail. 
 
-
-
 ## Common wrong choice types
 
 - **Wrong order.** Tempting wrong choices for organizing information questions might include the right elements of the passage, but in the wrong order. For example, a wrong choice could say that the author’s point of view was stated at the beginning of the passage when it was actually stated at the end.
@@ -58,8 +54,6 @@ Paired passage sets may have their own organization questions. Usually, you’ll
 
 Since the right answer will be an approach utilized by *both* passages, you can eliminate a choice as soon as you see that at least one passage doesn’t use the strategy the choice describes.
 
-
-
 ## Your turn!
 
 **Practice these strategies with the example below!**
@@ -70,8 +64,6 @@ Historical figures such as Christopher Columbus and Noah Webster observed that c
 
 Which of the following best describes the organization of the passage?
 
-
-
 - (Choice A)   A historical observation is discussed, and then evidence supporting that observation is presented.
 
 - (Choice B)   A historical theory is described and then revised in light of recent findings.
@@ -81,7 +73,7 @@ Which of the following best describes the organization of the passage?
 - (Choice D)   Observations made by two historical figures are compared, and one set of observations is shown to be more accurate.
 
 - (Choice E)   The assumptions behind a particular historical belief are identified and then discredited.
-  
+
 <details>
   <summary>Answer</summary>
   The correct answer is A

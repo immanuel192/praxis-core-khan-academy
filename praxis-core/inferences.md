@@ -44,14 +44,18 @@ Choose 1 answer:
 
 <details>
   <summary>Answer</summary>
-  The correct answer is C
+  The correct answer is B
 
   Explain in detail 
 
 - Choice A: This is *outside* the scope of the passage. The author doesn't mention anything about how the problem with these histories was "first noticed".
+
 - Choice B: This is the best choice. The author speaks negatively of these histories, stating that they're based on stereotypes. Specifically, the author criticizes the view that women from all Middle Eastern societies share a single role that can be easily described. This criticism implies the author believes the opposite: on the contrary, women's roles in the Middle East are numerous and complex.
+
 - Choice C: This isn't supported. The author criticizes how these histories view the roles and experiences of women. They don't suggest there has been a recent change in this tendency.
+
 - Choice D: This isn't supported. The author doesn't suggest that women's roles have *changed*. Instead, they suggest that women in Middle Eastern societies have many roles, and shouldn't be broadly stereotyped.
+
 - Choice E: This is too *extreme* to be supported by the passage. While the author complains that these histories have characterized women too broadly and simply, they don't suggest the histories neglected to discuss women *entirely*. Also notice that the passage doesn't suggest any "recent" change in these histories.
   
   </details>

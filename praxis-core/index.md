@@ -15,4 +15,5 @@ A: We recommend downloading, printing, or screenshotting any data from Khan Acad
 3. [Meaning of words](./meaning-of-words.md)
 4. [Organization](./organization.md)
 5. [Inferences](./inferences.md)
+6. [Evaluation of Evidence](./evaluation-of-evidence.md)
 
