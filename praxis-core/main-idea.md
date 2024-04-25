@@ -14,6 +14,8 @@ The first question in many Reading sets will ask you to identify the statement t
 
 *The **primary purpose** of the passage is to...*
 
+### 
+
 ### What’s the “big idea”?
 
 - The **main idea** is *what* the passage says
@@ -70,51 +72,25 @@ Shakespeare wrote four types of plays: histories, comedies, tragedies, and tragi
 
 **The primary purpose of the passage is to**
 
-Choose 1 answer:
+- (Choice A)   examine Shakespeare's life in light of his dramatic works
 
-Choose 1 answer:
+- (Choice B)   contest a theory that attempts to explain why Shakespeare wrote the kinds of plays he did
 
-- (Choice A)   
-  
-  examine Shakespeare's life in light of his dramatic works
-  
-  A
-  
-  examine Shakespeare's life in light of his dramatic works
+- (Choice C)   explain the terms "comedy," "tragedy," and "tragicomedy" as they are used in discussions of Shakespeare's plays
 
-- (Choice B)   
-  
-  contest a theory that attempts to explain why Shakespeare wrote the kinds of plays he did
-  
-  B
-  
-  contest a theory that attempts to explain why Shakespeare wrote the kinds of plays he did
+- (Choice D)   compare Shakespeare's plays with the works of other dramatists of his day
 
-- (Choice C)   
-  
-  explain the terms "comedy," "tragedy," and "tragicomedy" as they are used in discussions of Shakespeare's plays
-  
-  C
-  
-  explain the terms "comedy," "tragedy," and "tragicomedy" as they are used in discussions of Shakespeare's plays
+- (Choice E)   discuss what is known about Shakespeare's psychological states
 
-- (Choice D)   
-  
-  compare Shakespeare's plays with the works of other dramatists of his day
-  
-  D
-  
-  compare Shakespeare's plays with the works of other dramatists of his day
+<details>
+  <summary>Answer</summary>
+  The correct answer is B
+</details>
 
-- (Choice E)   
-  
-  discuss what is known about Shakespeare's psychological states
-  
-  E
-  
-  discuss what is known about Shakespeare's psychological states
+#### Practice video
 
-Check
-
-Video
-<video src="./videos/01-main-idea.mp4" width="320" height="240" controls></video>
+<div>
+<video width="99%" height="540" autoplay loop muted>
+    <source src="./videos/01-main-idea.mp4" type="video/mp4" >
+</video>
+</div>
