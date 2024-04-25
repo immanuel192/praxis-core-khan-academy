@@ -16,4 +16,5 @@ A: We recommend downloading, printing, or screenshotting any data from Khan Acad
 4. [Organization](./organization.md)
 5. [Inferences](./inferences.md)
 6. [Evaluation of Evidence](./evaluation-of-evidence.md)
+7. [Purpose of Component](./purpose-of-component.md)
 
