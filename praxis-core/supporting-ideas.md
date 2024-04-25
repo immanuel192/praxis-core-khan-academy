@@ -69,8 +69,6 @@ Predominantly Black land-grant colleges in the United States have a long traditi
 
 - (Choice E)   provide opportunities for students to work on campus to earn money for tuition
 
-
-
 **EXAMPLE 2**
 
 The women’s movement emerged in the United States in the 1830s, a period of intense reform and evangelism. Women were encouraged to speak out at religious revival meetings, and many women thus gained public speaking experience. When women sought and were denied leadership and the right to speak out in the abolitionist and temperance societies to which they belonged, they organized their own reform groups, and later worked to improve their own status.
@@ -86,7 +84,20 @@ The women’s movement emerged in the United States in the 1830s, a period of in
 - (Choice D)   were preoccupied with issues that pertained only to the status of women
 
 - (Choice E)   wished to challenge the existing political order by questioning the political motives of their opponents
-  
+
+<details>
+  <summary>Answer</summary>
+  The correct answer is C
+
+  Explain in detail 
+
+- Choice A: This contradicts information in the passage, which indicates that women were members of temperance and abolitionist societies.
+- Choice B: While this might be a true statement, the passage provides no information about the specific views of the women.
+- Choice C: This is the best choice. The last sentence states that women formed their own reform societies because they were “denied leadership and the right to speak out” in the societies to which they already belonged.
+- Choice D: This might be a true statement, but the passage provides no information about the specific views of the women.
+- Choice E: The passage provides no information about the specific views of the women. "Political motives" aren't mentioned.
+
+</details>
 
 #### Practice video
 
