@@ -69,6 +69,20 @@ Predominantly Black land-grant colleges in the United States have a long traditi
 
 - (Choice E)   provide opportunities for students to work on campus to earn money for tuition
 
+<details>
+  <summary>Answer</summary>
+  The correct answer is A
+
+  Explain in detail 
+
+- Choice A: This choice best states the reason that the colleges are leaders in career-related education. The first sentence tells us that Black land-grant colleges have supported cooperative education programs **"for a long time"**. The second sentence describes cooperative education programs. The final sentence tells us that it is this tradition of support for cooperative education programs that has made these colleges leaders in the career-oriented education movement.
+- Choice B: This choice contradicts info in the passage.
+- Choice C: This may be an accurate statement about these colleges, but it does not account for their leadership in career-oriented education.
+- Choice D: The passage says nothing about local business and community leaders.
+- Choice E: This may be a correct statement about these colleges, but this information is not explicitly stated in the passage, and, even if it were, it would not help explain **why the colleges are leaders in career-oriented education**, which is the focus of the question. Providing students with jobs on campus would not necessarily be beneficial to them in developing skills for a future career.
+
+</details>
+
 **EXAMPLE 2**
 
 The women’s movement emerged in the United States in the 1830s, a period of intense reform and evangelism. Women were encouraged to speak out at religious revival meetings, and many women thus gained public speaking experience. When women sought and were denied leadership and the right to speak out in the abolitionist and temperance societies to which they belonged, they organized their own reform groups, and later worked to improve their own status.
