@@ -13,4 +13,5 @@ A: We recommend downloading, printing, or screenshotting any data from Khan Acad
 1. [Main Idea](./main-idea.md)
 2. [Supporting Ideas](./supporting-ideas.md)
 3. [Meaning of words](./meaning-of-words.md)
+4. [Organization](./organization.md)
 
