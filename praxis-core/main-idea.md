@@ -89,8 +89,4 @@ Shakespeare wrote four types of plays: histories, comedies, tragedies, and tragi
 
 #### Practice video
 
-<div>
-<video width="99%" height="540" autoplay loop muted>
-    <source src="./videos/01-main-idea.mp4" type="video/mp4" >
-</video>
-</div>
+[Click to watch video](./videos/01-main-idea.mp4)
