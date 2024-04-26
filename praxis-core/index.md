@@ -17,4 +17,9 @@ A: We recommend downloading, printing, or screenshotting any data from Khan Acad
 5. [Inferences](./inferences.md)
 6. [Evaluation of Evidence](./evaluation-of-evidence.md)
 7. [Purpose of Component](./purpose-of-component.md)
+8. [Relationship of Idea](./relationship-of-idea.md)
+9. [Fact or Opinion](./fact-or-opinion.md)
+10. [Author's Attitude](./author-attitude.md)
+11. [Recognize similar situations](./recognise-similar-situations.md)
+12. [Draw conclusions](./draw-conclusion.md)
 
