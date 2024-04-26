@@ -85,6 +85,15 @@ Shakespeare wrote four types of plays: histories, comedies, tragedies, and tragi
 <details>
   <summary>Answer</summary>
   The correct answer is B
+
+  Explain in detail 
+
+- Choice A: This isn't the primary purpose of the passage. In fact, it is stated backwards: the passage examines Shakespeare's works in light of his life, not the other way around.
+- Choice B: This is the best choice. The first two sentences classify Shakespeare's plays into four categories and offer a theory, endorsed by "some scholars," concerning why Shakespeare chose to write three of these four kinds of plays. The next three sentences provide support for this theory by showing similarities between Shakespeare's likely psychological states and the plays he wrote at various times in his life. The word "But" in the next sentence indicates a change of direction in the passage: the author now suggests that the first theory may be wrong, and goes on to provide an alternate theory—that Shakespeare may well have written the kinds of plays he wrote not because they reflected a particular psychological state but because he thought they would be financially successful.
+- Choice C: This isn't the main point of the passage. Although the terms listed here are used in the passage, they aren't explained.
+- Choice D: This isn't the point of the passage. The passage isn't concerned with comparing Shakespeare's plays with those of another dramatist.
+- Choice E: While this choice does to some extent reflect the content of the passage, it doesn't express the complete primary purpose of the passage.
+
 </details>
 
 #### Practice video
